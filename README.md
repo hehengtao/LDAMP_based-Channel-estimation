@@ -44,7 +44,7 @@ Many trained network will be saved at ..\LDAMP_for_Rice\D-AMP_Toolbox-master\Pac
 
 Location: ..\LDAMP_for_Rice\D-AMP_Toolbox-master\SCAMPI-MATLAB and ..\LDAMP_for_Rice\D-AMP_Toolbox-master\Algorithms
 
-DAMP_SNR1.m: D-AMP algorithma
+DAMP_SNR1.m: D-AMP algorithm
 
 Acknoledge:
 
